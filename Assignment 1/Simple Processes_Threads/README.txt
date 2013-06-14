@@ -1,1 +1,0 @@
-A simple processes and threads application that obtain a measure of efficiency and performance of each implementation as they perform a set of specified tasks (calculating Fibonacci).
